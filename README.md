@@ -1,5 +1,5 @@
 # Unsupervised Machine Learning and Cryptocurrencies
-<img src="images/bigdata-header.jpg" width="1000" height="300">
+<img src="images/cryptocurrencies-header.jpg" width="1000" height="400">
 
 ## Project Overview
 A prominent investment bank is interested in offering a new cryptocurrency investment portfolio for its customers. The company, however, is lost in the vast universe of cryptocurrencies. So, they've asked me to create a report that includes what cryptocurrencies are on the trading market and how they could be grouped to create a classification system for this new investment. Since there is no known output for what I'm looking for, I used unsupervised learning. To group the cryptocurrencies, I decided on a clustering algorithm and I'll use the data visualizations to share the findings with the board.
@@ -36,7 +36,7 @@ Then, I created a new DataFrame `clustered_df` by joining two that were created 
 ### **Deliverable 4: Visualizing Cryptocurrencies Results**
 Using my knowledge of creating scatter plots with Plotly Express and hvplot, the following steps were performed to visualize the cryptocurrency results:
 - I created a 3D visualization that shows the distinct groups that correspond to the three principal components from Deliverable 2.
-<img src="images/delv4_3Dscatterplot.PNG">
+<img src="images/delv4_3Dscatterplot.png">
 
 - I created a table with all the currently tradable cryptocurrencies using the hvplot.table() function.
 <img src="images/Delv 4_hvplot.table.PNG">
