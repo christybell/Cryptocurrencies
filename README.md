@@ -36,7 +36,7 @@ Then, I created a new DataFrame `clustered_df` by joining two that were created 
 ### **Deliverable 4: Visualizing Cryptocurrencies Results**
 Using my knowledge of creating scatter plots with Plotly Express and hvplot, the following steps were performed to visualize the cryptocurrency results:
 - I created a 3D visualization that shows the distinct groups that correspond to the three principal components from Deliverable 2.
-<img src="images/delv4_3Dscatterplot.png">
+<img src="images/Delv 4_3Dscatterplot.png">
 
 - I created a table with all the currently tradable cryptocurrencies using the hvplot.table() function.
 <img src="images/Delv 4_hvplot.table.PNG">
